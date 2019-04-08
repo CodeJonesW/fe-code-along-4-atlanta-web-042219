@@ -92,7 +92,7 @@ figcaption {
   background: #ccc;
 }
 .clearfix:after {
-  
+  content: "";
 }
 
 [class*="col-"] {
