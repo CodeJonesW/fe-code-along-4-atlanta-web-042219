@@ -78,7 +78,7 @@ img, video, audio {
 
 /* ////// LAYOUT ////// */
 * {
-  box-sizing: 
+  box-sizing: borderbox
 }
 .wrapper {
   width: 960px;
