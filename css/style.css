@@ -73,7 +73,7 @@ figcaption {
 
 /* /////// Media ////// */
 img, video, audio {
-  width:;
+  max-width:
 }
 
 /* ////// LAYOUT ////// */
